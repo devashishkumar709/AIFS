@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577056352192",
+    "firebase_url": "https://aifs-b5eaa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aifs-b5eaa",
+    "storage_bucket": "aifs-b5eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577056352192:android:227f68bc615a64d904ca25",
+        "android_client_info": {
+          "package_name": "com.example.aifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577056352192-s0perus56k1ddql6v33btr5uardefhs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7HBomo70qKQ6TJp4X77tTAaV6SnLNFik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577056352192-s0perus56k1ddql6v33btr5uardefhs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
